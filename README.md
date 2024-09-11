@@ -9,8 +9,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rebecavitoria45&show_icons=true&theme=tokyonight" alt="Rebeca vitoria github stats" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecavitoria45&layout=compact&theme=tokyonight"/
+  <img width="80%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Rebecavitoria45&show_icons=true&theme=tokyonight" alt="Rebeca vitoria github stats" /> 
+ <img width="80%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecavitoria45&layout=compact&theme=tokyonight"/
 </div>
 <div>
  <img align="center" alt="Rebeca html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
