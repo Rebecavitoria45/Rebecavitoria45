@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Eu sou Rebeca vitória, tenho 20 anos e sou de Pernambuco. Concluí o curso técnico de ADS. E atualmente, estou cursando o Tecnólogo de Análise e Desenvolvimento de Sistemas no IFPE Campus Paulista. Sou apaixonada por tecnologia e pelo desenvolvimento Backend.
+Eu sou Rebeca vitória, Sou de Pernambuco. Concluí o curso técnico de ADS. E atualmente, estou cursando o Tecnólogo de Análise e Desenvolvimento de Sistemas no IFPE Campus Paulista. Sou apaixonada por tecnologia e pelo desenvolvimento Backend.
 
 <div align="center"> 
 <a href = "mailto:rebecanascimentovit@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
